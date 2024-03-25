@@ -29,6 +29,8 @@ const palette = {
   accent300: "#FDD495",
   accent400: "#FBC878",
   accent500: "#FFBB50",
+  
+  bright100: "#EF4035",
 
   angry100: "#F2D6CD",
   angry500: "#C03403",

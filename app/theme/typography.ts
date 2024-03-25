@@ -18,7 +18,7 @@ export const customFontsToLoad = {
   spaceGroteskBold,
 }
 
-const fonts = {
+export const fonts = {
   spaceGrotesk: {
     // Cross-platform Google font.
     light: "spaceGroteskLight",

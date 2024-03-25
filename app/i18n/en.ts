@@ -3,12 +3,12 @@ const en = {
     ok: "OK!",
     cancel: "Cancel",
     back: "Back",
+    letsgo: "Let's goooo",
   },
   welcomeScreen: {
-    postscript:
-      "psst  — This probably isn't what your app looks like. (Unless your designer handed you these screens, and in that case, ship it!)",
-    readyForLaunch: "Your app, almost ready for launch!",
-    exciting: "(ohh, this is exciting!)",
+    readyForLaunch:
+      "Can you guess the scores of 10 random Pitchfork reviews only by looking at their cover, genre, and preview text?",
+    postscript: "Find out if you're a true Pitchdork",
   },
   errorScreen: {
     title: "Something went wrong!",
